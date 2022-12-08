@@ -1,1 +1,4 @@
-# ElectricityDemand
+# Prediction of Electricity Demand in France
+## Problem Statement
+The electricity demand of France is very much dependent on weather data. The demand of France is an important driver of European electricity prices, as it is one of the biggest countries. France has a lot of interconnections with surrounding countries. Hence, in periods of high demand France is likely to import electricity from neighbouring countries, which will result in higher prices in France and the other countries. In periods of low demand, France is likely to export, which will result in lower prices. That is the reason that market parties need a good insight and forecast of this demand in France.
+In order to find a solution for above problem we need to develop a forecast system that predicts the electricity demand in France for next 48 hours considering the seasonal and weather changes that presumes all over the year. 
